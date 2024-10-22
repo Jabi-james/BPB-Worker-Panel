@@ -8751,7 +8751,7 @@ var singboxConfigTemp = {
       tag: "",
       outbounds: [],
       url: "https://www.gstatic.com/generate_204",
-      interval: ""
+      interval: "30s"
     },
     {
       type: "direct",
